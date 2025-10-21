@@ -47,7 +47,7 @@
   <img width="12"/>
   <img src="https://www.svgrepo.com/show/349429/kodi.svg" height="50">
   <img width="12"/>
-  <img src="https://www.svgrepo.com/svg/504387/geometry-dash" height="50">
+  <img src="https://www.svgrepo.com/show/504387/geometry-dash.svg" height="50">
   <img width="12"/>
 </div>
 <h1 align="left">🏆 | My trophies</h1>
