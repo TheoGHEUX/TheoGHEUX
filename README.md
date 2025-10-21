@@ -43,7 +43,7 @@
   <img width="12"/>
   <img src="https://www.svgrepo.com/show/475640/chrome-color.svg" height="50">
   <img width="12"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/brawl-stars-star-1.svg" height="50">
+  <img src="[https://cdn.worldvectorlogo.com/logos/brawl-stars-star-1.svg](https://www.google.com/imgres?q=logo%20geometry%20dash&imgurl=https%3A%2F%2Fstatic.wikia.nocookie.net%2Flogopedia%2Fimages%2F4%2F41%2FGeometry_Dash_Icon.svg%2Frevision%2Flatest%3Fcb%3D20220220121501&imgrefurl=https%3A%2F%2Flogos.fandom.com%2Fwiki%2FGeometry_Dash&docid=BETnf6NuJRlkTM&tbnid=t8-GtYVX4D5VEM&vet=12ahUKEwi6-Nzw27SQAxVHRKQEHXF5ErsQM3oECBYQAA..i&w=512&h=512&hcb=2&ved=2ahUKEwi6-Nzw27SQAxVHRKQEHXF5ErsQM3oECBYQAA)" height="50">
   <img width="12"/>
   <img src="https://www.svgrepo.com/show/374093/sql.svg" height="50">
   <img width="12"/>
