@@ -6,13 +6,14 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheoGHEUX&show_icons=true&theme=radical" height="150" alt="Les statistiques GitHub de votre nom d'utilisateur">
-  <img src="https://streak-stats.demolab.com?user=TheoGHEUX&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheoGHEUX&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="Languages utilisés"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=TheoGHEUX&show_icons=true&theme=blue_navy" height="150" alt="Statistiques GitHub de TheoGHEUX">
+  <img src="https://streak-stats.demolab.com?user=TheoGHEUX&locale=en&mode=daily&theme=blue_navy&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheoGHEUX&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue_navy&hide_border=false" height="150" alt="Langages utilisés" />
 </div>
+
 <p align="center">
   <a href="https://github.com/TheoGHEUX">
-    <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=TheoGHEUX&bg_color=141321&color=bc4c5b&line=c65987&point=FFFFFF&area_color=bc4c5b&border_radius=24.5&title_color=bc4c5b&border_radius=20px"/>
+    <img height="250" src="https://github-readme-activity-graph.vercel.app/graph?username=TheoGHEUX&bg_color=0d1117&color=00bfff&line=1e90ff&point=00ffff&area_color=007acc&title_color=00bfff&border_radius=20" alt="Graph d'activité GitHub" />
   </a> 
 </p>
 
