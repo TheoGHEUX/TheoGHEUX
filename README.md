@@ -7,7 +7,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TheoGHEUX&show_icons=true&theme=blue_navy" height="150" alt="Statistiques GitHub de TheoGHEUX">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheoGHEUX&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue_navy&hide_border=false" height="150" alt="Langages utilisés" />
   <img src="https://streak-stats.demolab.com?user=TheoGHEUX&locale=en&mode=daily&theme=blue_navy&hide_border=false&border_radius=5" height="150" alt="streak graph" />
 </div>
 
@@ -17,6 +16,10 @@
   </a> 
 </p>
 
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheoGHEUX&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue_navy&hide_border=false" height="150" alt="Langages utilisés" />
+</div>
+  
 <h1 align="left">🔭 | My topics</h1>
 <div align="left">
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" height="50">
