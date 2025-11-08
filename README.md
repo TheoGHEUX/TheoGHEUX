@@ -2,7 +2,7 @@
 
 
 
-<h1 align="left"> 📍 My Github's Stats </h1>
+<h1 align="left"> ⭐ My Github's Stats </h1>
 
 
 <div align="center">
