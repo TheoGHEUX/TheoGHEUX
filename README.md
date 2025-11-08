@@ -6,6 +6,7 @@
 
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheoGHEUX&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue_navy&hide_border=false" height="150" alt="Langages utilisés" />
   <img src="https://github-readme-stats.vercel.app/api?username=TheoGHEUX&show_icons=true&theme=blue_navy" height="150" alt="Statistiques GitHub de TheoGHEUX">
   <img src="https://streak-stats.demolab.com?user=TheoGHEUX&locale=en&mode=daily&theme=blue_navy&hide_border=false&border_radius=5" height="150" alt="streak graph" />
 </div>
@@ -15,10 +16,6 @@
     <img height="250" src="https://github-readme-activity-graph.vercel.app/graph?username=TheoGHEUX&bg_color=0d1117&color=00bfff&line=1e90ff&point=00ffff&area_color=007acc&title_color=00bfff&border_radius=20" alt="Graph d'activité GitHub" />
   </a> 
 </p>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheoGHEUX&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue_navy&hide_border=false" height="150" alt="Langages utilisés" />
-</div>
   
 <h1 align="left">🔭 | My topics</h1>
 <div align="left">
@@ -52,6 +49,11 @@
   <img width="12"/>
   <img src="https://www.svgrepo.com/show/504387/geometry-dash.svg" height="50">
   <img width="12"/>
+  <img src="https://www.svgrepo.com/svg/452088/php" height="50">
+  <img width="12"/>
+  
 </div>
-<h1 align="left">🏆 | My trophies</h1>
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=TheoGHEUX&theme=dracula&no-frame=true&no-bg=true&margin-w=15&column=5"</p>
+
+<!--<h1 align="left">🏆 | My trophies</h1>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=TheoGHEUX&theme=dracula&no-frame=true&no-bg=true&margin-w=15&column=5"</p> --> 
+
